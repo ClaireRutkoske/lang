@@ -1,3 +1,3 @@
 # plang
 
-plang is an object that simply swaps defined content in innerHTML once a lang is set.
+plang is an app that simply swaps defined content once a lang is set.
