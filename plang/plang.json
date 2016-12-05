@@ -1,0 +1,12 @@
+{
+  "plang":{
+    "en":{
+      "plangHeading":"English Heading",
+      "plangBody":"English body."
+    },
+    "es":{
+      "plangHeading":"Español Heading",
+      "plangBody":"Español body."
+    }
+  }
+}
